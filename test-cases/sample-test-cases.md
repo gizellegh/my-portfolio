@@ -1,9 +1,5 @@
-# Sample Test Cases
-Having experience testing an e-commerce platform, I understand that payment is one of the most critical parts of the customer journey. A successful payment directly impacts the customer's order, revenue, and overall experience.
 
-For this sample project, I am applying my knowledge and experience in e-commerce testing to demonstrate how I would validate a payment flow. The test scenarios cover both positive and negative cases, including valid payments, invalid card details, expired cards, insufficient funds, payment failures, and potential duplicate transactions.
 
-The goal is to ensure that payments are processed correctly, invalid transactions are properly handled, and customers are not incorrectly charged or left with an inaccurate order statu
 ## Test Case 001 – Successful Payment with Valid Card
 
 | **Field**     | **Details**                                                    |
