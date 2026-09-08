@@ -63,11 +63,6 @@ Sample professional bug reports including steps to reproduce, expected results, 
 
 [View Bug Reports](./bug-reports)
 
-### 📋 Test Scenarios
-
-Examples of test scenarios and testing approaches for different application features.
-
-[View Test Scenarios](./test-scenarios)
 
 ### 📊 Test Plan
 
@@ -87,13 +82,7 @@ Examples of mobile application testing covering devices, operating systems, netw
 
 [View Mobile Testing](./mobile-testing)
 
-### 🗄️ SQL Testing
 
-Basic SQL queries and database validation examples used for QA testing.
-
-[View SQL Testing](./sql-testing)
-
----
 
 ## 📈 Testing Approach
 
